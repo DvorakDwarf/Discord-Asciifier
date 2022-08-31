@@ -55,3 +55,5 @@ Here is an example:
                                       ####################### #############################                 
 ```
 ![2022-08-31_12-16](https://user-images.githubusercontent.com/96934612/187763827-db23a1a8-0154-4ff4-8b25-74f5bc74544c.jpg)
+
+PS: You might or might not be able to use this to animate things on discord with bots. Allegedly somebody did that and it looked pretty good, hypothetically speaking.
