@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/hunar4321/life_code)
 
-# image-to-ascii
+# Discord-Asciifier
 A script I wrote for a discord bot to convert images into text. The code is somewhat messy as most my projects tend to be. I didn't feel that polishing it was worth the time I could spend learning to do something else. 
 
 To use, just copy the script, install the python libraries used, and run it. Explanation on how to change the settings of the ascii generator are in the script when you run it. Default size is ~2000 characters because that is discord's character limit per message (It usually doesn't look great). If you pick a size more than 1, it will multiply the number of characters available to the script by that number. I recommend picking size 3 for pretty images.
