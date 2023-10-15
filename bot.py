@@ -1,5 +1,6 @@
 from discord.ext import commands
 from cmnds import *
+from ascii import image_to_text
 import discord
 
 bot = commands.Bot(command_prefix='$')
